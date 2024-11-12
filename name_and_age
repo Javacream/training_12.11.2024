@@ -1,0 +1,9 @@
+#Aufgabe 2
+Person_name = input('Bitte Name eingeben: ')
+person_age = input('Bitte Alter eingeben: ')
+
+
+#print('Die Person ' + name + 'ist ' + age + ' Jahre alt')
+
+#Zweite Variante
+print(f'Die Person  {Person_name} ist {person_age} Jahre alt')
